@@ -1,6 +1,9 @@
 # athazagoraphobia-sheets
 
 Sheets about stuff I tend to forget.
+***
+# Git
+
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/git_cheat_sheet.png">
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/repo-checkout.png">
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/workflow.png">
