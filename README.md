@@ -14,3 +14,6 @@ Sheets about stuff I tend to forget.
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/git-tag.png">
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/git-log.png">
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/git-local.png">
+<img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/git/semantic-versioning.png"> 
+# Angular 
+<img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/angular/angular-hooks.png">
