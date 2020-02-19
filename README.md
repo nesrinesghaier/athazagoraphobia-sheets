@@ -27,4 +27,6 @@ The **goals** behind their use are mainly **reusability**, **debugging ease**, *
 #### Class:
 It **models** the **behaviour and state** of real-world **objects**. It is the prototype or blurptint of that object.
 #### Inheritance:
-Inheritance in OOP allows classes to inherit **commonly used state and behavior** from other classes.
+Inheritance in OOP allows **classes** to inherit **commonly used state and behavior** from other classes.
+#### Package: 
+It is a **namespace** for **organizing classes and interfaces** in a **logical manner**. Placing your code into packages **makes** large software **projects easier to manage**. 
