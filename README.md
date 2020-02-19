@@ -19,3 +19,10 @@ Sheets about stuff I tend to forget.
 # Angular 
 
 <img src="https://github.com/nesrinesghaier/athazagoraphobia-sheets/blob/master/angular/angular-hooks.png">
+
+# OOP
+#### Object:
+Software objects are conceptually similar to real-world objects. They too consist of state and related behavior.
+The goals behind their use are mainly reusability, modularity (the source code for an object can be written and maintained independently of the source code for other objects) and information-hiding (By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world).
+   
+  
