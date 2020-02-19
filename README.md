@@ -22,7 +22,9 @@ Sheets about stuff I tend to forget.
 
 # OOP
 #### Object:
-Software objects are conceptually similar to real-world objects. They too consist of state and related behavior.
-The goals behind their use are mainly reusability, modularity (the source code for an object can be written and maintained independently of the source code for other objects) and information-hiding (By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world).
-   
-  
+**Software objects are conceptually similar to real-world objects. They too consist of state and related behavior**.
+The **goals** behind their use are mainly **reusability**, **debugging ease**, **modularity** (the source code for an object can be written and maintained independently of the source code for other objects) and **information-hiding** (By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world).
+#### Class:
+It **models** the **behaviour and state** of real-world **objects**. It is the prototype or blurptint of that object.
+#### Inheritance:
+Inheritance in OOP allows classes to inherit **commonly used state and behavior** from other classes.
